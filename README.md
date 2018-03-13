@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Who am I?
 
-You can use the [editor on GitHub](https://github.com/pyrocumulus/pyrocumulus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A Dutch .NET developer working in the medical industry. Married and father of two beautiful kids. Interested in computer science, artificial intelligence, security & cryptography, home automation. I've been doing C# for more than ten years professionally now, everything else listed is just hobby. Other hobbies include: aikido, (trail) running, enjoying nature.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Blogs I frequent
 
-### Markdown
+- [John Skeet](https://codeblog.jonskeet.uk/)
+- [Eric Lippert](https://ericlippert.com/) - *Fabulous adventures in coding*
+- [Troy Hunt](https://www.troyhunt.com/)
+- [Amit Patel](http://simblob.blogspot.nl/) - *Blobs in Games*
+- [Sergey Teplyakov](https://blogs.msdn.microsoft.com/seteplia/) - *Dissecting the code*
+- [Matt Warren](http://mattwarren.org/) - *Performance is a Feature!*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Social links
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pyrocumulus/pyrocumulus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Stack Overflow](https://stackoverflow.com/users/97000/pyrocumulus)
+- [Github](https://github.com/pyrocumulus)
