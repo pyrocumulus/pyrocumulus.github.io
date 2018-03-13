@@ -1,6 +1,8 @@
 ## Who am I?
 
-A Dutch .NET developer working in the medical industry. Married and father of two beautiful kids. Interested in computer science, artificial intelligence, security & cryptography, home automation. I've been doing C# for more than ten years professionally now, everything else listed is just hobby. Other hobbies include: aikido, (trail) running, enjoying nature.
+A Dutch .NET developer working in the medical industry. Married and father of two beautiful kids. Interested in computer science, artificial intelligence, security & cryptography, home automation. 
+
+I've been doing C# for more than ten years professionally now, everything else listed is just hobby. Other hobbies include: aikido, (trail) running, enjoying nature.
 
 ## Blogs I frequent
 
